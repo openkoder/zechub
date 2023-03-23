@@ -1,44 +1,43 @@
-# Electric Coin Company
+# Компания Electric Coin Company
 
-## Mission Statement
+## Миссия
 
-Today, billions of people in the world do not have access to a fair and open currency or supporting financial services. We build and support Zcash to drive greater freedom and opportunity for everyone.
+Сегодня миллиарды людей в мире не имеют доступа к честной и открытой валюте, и финансовым услугам. Мы создаем и поддерживаем Zcash, чтобы обеспечить большую свободу и возможности для всех.
 
-## People and Teams
+## Люди и команда
 
-The Electric Coin Company has nearly 30 employees that are distributed across the world. They work on various things such as protocol development, application development, protocol security, business development and regulatory relations. More [info](https://electriccoin.co/team/)
+В компании Electric Coin Company (или сокращенно ECC) работает около 30 сотрудников по всему миру. Они работают над различными вещами, такими как разработка протокола, разработка приложений, безопасность протокола, развитие бизнеса и отношения с регулирующими органами. Подробнее [информация](https://electriccoin.co/team/)
 
-## Organizational Structure
+## Организационная структура
 
-The Electric Coin Company is wholly owned by the Bootstrap Project. The Bootstrap Project is a 501(c)(3) dedicated to the uplift of humanity through technology, scientific discovery, education and human organization. Both Bootstrap and the Electric Coin Company have a board of directors, and the Electric Coin Company also has a Scientific Advisory Group.
+Компания Electric Coin полностью принадлежит проекту Bootstrap. Проект Bootstrap — это некоммерческий проект [501(c)(3)](https://en.wikipedia.org/wiki/501(c)(3)_organization), посвященный развитию человечества с помощью технологий, научных открытий, образования и организации людей. И у проекта Bootstrap, и у компании Electric Coin Company есть совет директоров, а у Electric Coin Company также есть научная консультативная группа.
 
-### Regulation
+### Законодательное регулирование
 
-ECC’s insight and leadership around on-chain privacy and its implications for personal and national security is incredibly valuable for policy makers. Consistent efforts to appropriately guide policy wherever possible have been made since the ECC was founded. 
+Понимание и лидерство компании ECC в отношении конфиденциальности в сети блокчейна и ее последствий для личной и национальной безопасности невероятно ценны для политиков. С момента основания компании ECC были предприняты последовательные усилия по надлежащему направлению политики согласно нашим принципам, где это возможно.
 
-Examples of outreach include dialogue with Financial Action Task Force (FATF) taking part in meetings which resulted in the organization’s recommendations for the cryptocurrency sector. As a result of these efforts Zcash became approved by the New York State Department of Financial Services (NYDFS), the only privacy-protecting cryptocurrency to do so. 
+Примеры информационно-разъяснительной работы включают диалог с группой разработки финансовых мер борьбы с отмыванием денег (FATF), участие во встречах, результатом которых стали рекомендации организации для криптовалютного сектора. В результате этих усилий Zcash был одобрен Департаментом финансовых услуг штата Нью-Йорк (NYDFS) как единственная криптовалюта, защищающая конфиденциальность, которая сделала это.
 
-### Partner Engagement 
+### Взаимодействие с партнерами
 
-The ECC supports and contributes to the efforts of organizations like Coin Center, the Blockchain Alliance, the Blockchain Association and Global Digital Finance as wekk as organising PGP Crypto Breakfasts. These are monthly gatherings for policy professionals, think tank scholars and academics to engage in informal discussions around policy for cryptocurrency. 
+Компания ECC поддерживает и вносит свой вклад в усилия таких организаций, как Coin Center, Blockchain Alliance, Blockchain Association и Global Digital Finance, а также в организацию крипто-завтраков PGP. Это ежемесячные встречи для специалистов в области политики, ученых аналитических центров и академиков для неформальных дискуссий о политике в отношении криптовалюты.
 
-Another program arranged by the ECC is 'Crypto in Context'. This exists to create opportunities for industry leaders to engage in dialog and discovery, networking and collaborative workshops focused on cryptocurrencies and financial literacy. 
+Еще одна программа, организованная компанией ECC, называется «Крипто в контексте». Она существует для того, чтобы дать возможность лидерам отрасли участвовать в диалоге и представлении, создании сетей и совместных семинарах, посвященных криптовалютам и финансовой грамотности.
 
-Partnerships with Gemini, enabling shielded transactions on their platform and Flexa allowing for easy Zcash mobile payments among several others, demonstrating Zcash as a industry accepted form of Web3 Payment with clear potential for further accessibility in the payments space.
+Партнерство с Gemini, обеспечивающее экранированные транзакции на их платформе, и Flexa, позволяющее легко осуществлять мобильные платежи Zcash среди ряда других, демонстрирует Zcash как принятую в отрасли форму оплаты Web3 с явным потенциалом для дальнейшей доступности в сфере платежей.
 
-### Research and Development
+### Исследования и разработки
 
-The R&D team have led recognised breakthroughs on several occasions, the first being Zcash as the worlds first commerical use of a Zero-Knowledge SNARK application. 
+Команда R&D несколько раз добилась признанных прорывов, первым из которых был Zcash как первое в мире коммерческое использование приложения SNARK с нулевым разглашением.
 
-Several more following such as the Sapling network upgrade allowing for lighter, shielded transactions with a memory reduction of over 97 percent enabling for the first time such transactions on a mobile device in a user-friendly way. 
+Затем последовало еще несколько, таких как обновление сети Sapling, позволяющее выполнять более легкие, защищенные транзакции с сокращением памяти более чем на 97%, что впервые делает такие транзакции на мобильном устройстве удобным для пользователя способом.
 
-The most significant breakthrough being the most recent. The creation of the halo2 trustless proving system. Since 2022, this has been active on the Zcash Mainnet and allows users to leverage a more secure & easily upgradeable construction for their payment protocol. 
+Самый значительный прорыв произошел совсем недавно. Создание системы доказательства не требующего доверия halo2. С 2022 года он активен в основной сети Zcash и позволяет пользователям использовать более безопасную и легко обновляемую конструкцию для своего платежного протокола.
 
+## Финансирование
 
-## Funding
+Компания Electric Coin Company получает 7% [фонда развития Zcash](https://zips.z.cash/zip-1014). Использование этих финансов можно увидеть в [отчетах о прозрачности](https://electriccoin.co/blog/ecc-transparency-report-for-q3-2021/), которые они публикуют каждый квартал.
 
-The Electric Coin Company receives 7% of the [Zcash development fund](https://zips.z.cash/zip-1014). Their use of finances can be seen in their [transparency reports](https://electriccoin.co/blog/ecc-transparency-report-for-q3-2021/) which they release every quarter.
+## Ресурсы
 
-## Resources
-
-[Zcash development and governance](https://z.cash/zcash-development-and-governance/)
+[Разработка и управление Zcash](https://z.cash/zcash-development-and-governance/)
